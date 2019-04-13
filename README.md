@@ -1,4 +1,4 @@
-# Pokdedex challenge
+# Pokedex challenge
 
 ## Instalation
 ```sh
